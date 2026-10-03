@@ -1,1 +1,2 @@
 "Git is a distributed version control system that helps track changes and collaborate efficiently." 
+"Git helps teams work together using branches and commits." 
